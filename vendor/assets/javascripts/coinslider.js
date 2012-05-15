@@ -1,0 +1,3 @@
+/*
+ *= require coinslider-main
+*/
